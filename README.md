@@ -12,9 +12,9 @@ It sets permissions, fixes line endings, and configures auto-start.
 2. Download the original Discord RPC files from the official release:  
 [GitHub Release 0.3.0](https://github.com/lolamtisch/Discord-RPC-Extension/releases/tag/0.3.0)  
 
-The folder should contain:  
-- `start.sh`  
-- `server_macos_debug`
+  The folder should contain:  
+  - `start.sh`  
+  - `server_macos_debug`
 
 3. Download `setup.sh` from this fork and place it in the same folder as the original files.
 
