@@ -21,7 +21,7 @@ It sets permissions and configures auto-start with a single command.
    ```bash
    chmod +x install.sh
    ```**
-   Then**
+  **Then**
    ```bash
    ./install.sh
    ```
