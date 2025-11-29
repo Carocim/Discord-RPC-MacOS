@@ -20,8 +20,8 @@ It sets permissions and configures auto-start with a single command.
 4. **Open Terminal in that folder** and run:
    ```bash
    chmod +x install.sh
-   ```**
-  **Then**
+   ```
+   **Then**
    ```bash
    ./install.sh
    ```
